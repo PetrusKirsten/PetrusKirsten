@@ -64,9 +64,9 @@ Here’s a glimpse into some of the projects I’ve been working on — mixing p
 
 ## 📫 Let's connect!
 
-[LinkedIn](https://www.linkedin.com/in/petrus-kirsten) • [Website](https://github.com/PetrusKirsten) _(coming soon)_ • [Email](mailto:petrus.kirsten@gmail.com)
-
----
+- [Email](mailto:petrus.kirsten@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/petrus-kirsten)
+- [Personal Website](https://github.com/PetrusKirsten) _(cooming soon)_
 
 ---
 
@@ -139,7 +139,9 @@ Aqui vai uma amostra dos projetos em que tenho trabalhado — misturando necessi
 
 ## 📫 Vamos nos conectar?
 
-[LinkedIn](https://www.linkedin.com/in/petrus-kirsten) • [Site pessoal](https://github.com/PetrusKirsten) _(em breve)_ • [Email](mailto:petrus.kirsten@gmail.com)
+- [Email](mailto:petrus.kirsten@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/petrus-kirsten)
+- [Site pessoal](https://github.com/PetrusKirsten) _(em breve)_
 
 ---
 
