@@ -45,20 +45,24 @@ I’m developing skills and building projects in:
 
 Here’s a glimpse into some of the projects I’ve been working on — mixing personal needs, creative curiosity, and academic research:
 
-- 📊 **[Meu Doce Dinheiro](https://github.com/PetrusKirsten/meu-doce-dinheiro)**  
-  A personal finance app designed to track income and expenses in a simple and visual way. Built as a way to explore full stack development and data visualization.
-
-- 🔬 **[Raman spectroscopy and microscopy tools](https://github.com/PetrusKirsten/RamanAnalysis)**  
-  Scripts and notebooks for analyzing spectroscopic and microscopic data in research contexts.
-
-- ❇️ **[Hindmarsh-Rose neuronal model simulation](https://github.com/PetrusKirsten/simulacao-neuronal-HR)**  
-  Simulation of the nonlinear Hindmarsh-Rose model, used to explore neuron dynamics and spiking behavior.
-
 - 📷 **[Webcam spatial tracking system](https://github.com/PetrusKirsten/webcam_for_nTMS)**  
   A novel system to enable spatial tracking via webcam for use in neuronavigation software [InVesalius Navigator](https://invesalius.github.io/), aiming to assist in non-invasive mapping of brain structures using medical imaging.
 
 - 🧠 **[Automated motor mapping system](https://github.com/PetrusKirsten/inv3_plugins/tree/main/automated_mapping)**  
   Combines robotic arms (cobots), custom-built EMG (via microcontroller), and InVesalius Navigator to automate motor cortex mapping — bridging software, neuroscience, and hardware.
+
+- 🦖 **[PaleoDex API](https://github.com/PetrusKirsten/PaleoDex_API)**  
+  A RESTful API built with FastAPI to manage dinosaur and paleontological specimens in Brazil — including museums, specimens, and taxonomic data.  
+  While the first milestone focuses on clean backend design (async SQLAlchemy, Pydantic validation, Alembic migrations), the bigger vision is to connect this API with real paleontology databases in Brazil. From there, the goal is to develop a data analysis and visualization layer, creating interactive dashboards for research and education in paleontology.
+  
+- 📊 **[Meu Doce Dinheiro](https://github.com/PetrusKirsten/meu-doce-dinheiro)**  
+  A personal finance app designed to track income and expenses in a simple and visual way. Built as a way to explore full stack development and data visualization.
+
+- ❇️ **[Hindmarsh-Rose neuronal model simulation](https://github.com/PetrusKirsten/simulacao-neuronal-HR)**  
+  Simulation of the nonlinear Hindmarsh-Rose model, used to explore neuron dynamics and spiking behavior.
+
+- 🔬 **[Raman spectroscopy and microscopy tools](https://github.com/PetrusKirsten/RamanAnalysis)**  
+  Scripts and notebooks for analyzing spectroscopic and microscopic data in research contexts.
 
 ---
 
