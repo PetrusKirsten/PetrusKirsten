@@ -1,151 +1,109 @@
-# Hello, World! Petrus here 👾
+# 👋 Hello, World! Petrus here 👾
 
-<!-- You can also add a banner or image here -->
+🧠 Physicist | 📊 Data Science Student | 💻 Software Developer  
 
-### I’ve been a science 🧪, tech 💾, and dinosaur 🦖, enthusiast since I was a kid.
+I build **data-driven applications** and **scientific tools**, combining physics, programming, and real-world problem solving.
+
+---
+
+### I've been a science 🧪, tech 💾, and dinosaur 🦖 enthusiast since I was a kid.
+
 ---
 
 ## 👨‍🔬 About me
 
-I'm currently a **Ph.D. candidate** in **Applied Physics to Medicine and Biology** 👩🏻‍🔬🩻 at **University of São Paulo (USP)** and a **Data Science** 📊📈 undergraduate student at **Virtual University of the State of São Paulo (Univesp)**.
+I'm currently a **Ph.D. candidate** in **Applied Physics to Medicine and Biology** at the **University of São Paulo (USP)**, and a **Data Science undergraduate student** at **Univesp**.
 
-I’m developing skills and building projects in:
-- 📊 **Data Analysis and Data Science**
-- 🌐 **Full Stack Web Development**
-- 💻 **Software and Application Development**
-- 🤖 **Microcontrollers and Electronics**
+My work sits at the intersection of:
 
----
-
-## 💻 Technologies I’ve been working with
-
-<!-- LANGUAGES -->
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-<!-- FRONT-END -->
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-<!-- BACK-END / DB -->
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![APIs](https://img.shields.io/badge/APIs-000000?style=for-the-badge&logo=cloudflare&logoColor=white)
-
-<!-- TOOLS -->
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-<!-- HARDWARE -->
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+- 📊 **Data Analysis & Data Science**
+- 🌐 **Full Stack Development**
+- 💻 **Software Engineering**
+- 🤖 **Scientific Systems & Embedded Tech**
 
 ---
 
-## 🧪 Some things I’m building or exploring
+## ⭐ Featured Projects
 
-Here’s a glimpse into some of the projects I’ve been working on — mixing personal needs, creative curiosity, and academic research:
-
-- 📷 **[Webcam spatial tracking system](https://github.com/PetrusKirsten/webcam_for_nTMS)**  
-  A novel system to enable spatial tracking via webcam for use in neuronavigation software [InVesalius Navigator](https://invesalius.github.io/), aiming to assist in non-invasive mapping of brain structures using medical imaging.
-
-- 🧠 **[Automated motor mapping system](https://github.com/PetrusKirsten/inv3_plugins/tree/main/automated_mapping)**  
-  Combines robotic arms (cobots), custom-built EMG (via microcontroller), and InVesalius Navigator to automate motor cortex mapping — bridging software, neuroscience, and hardware.
-
-- 🦖 **[PaleoDex API](https://github.com/PetrusKirsten/PaleoDex_API)**  
-  A RESTful API built with FastAPI to manage dinosaur and paleontological specimens in Brazil — including museums, specimens, and taxonomic data.  
-  While the first milestone focuses on clean backend design (async SQLAlchemy, Pydantic validation, Alembic migrations), the bigger vision is to connect this API with real paleontology databases in Brazil. From there, the goal is to develop a data analysis and visualization layer, creating interactive dashboards for research and education in paleontology.
-  
-- 📊 **[Meu Doce Dinheiro](https://github.com/PetrusKirsten/meu-doce-dinheiro)**  
-  A personal finance app designed to track income and expenses in a simple and visual way. Built as a way to explore full stack development and data visualization.
-
-- ❇️ **[Hindmarsh-Rose neuronal model simulation](https://github.com/PetrusKirsten/simulacao-neuronal-HR)**  
-  Simulation of the nonlinear Hindmarsh-Rose model, used to explore neuron dynamics and spiking behavior.
-
-- 🔬 **[Raman spectroscopy and microscopy tools](https://github.com/PetrusKirsten/RamanAnalysis)**  
-  Scripts and notebooks for analyzing spectroscopic and microscopic data in research contexts.
+### 📊 [FinDash](https://github.com/PetrusKirsten/FinDash)
+Personal finance dashboard focused on data visualization and insights.  
+- Built with **Python** and **Streamlit**  
+- Focus on exploratory data analysis and interactive visualization  
 
 ---
 
-## 📫 Let's connect!
-
-- [Email](mailto:petrus.kirsten@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/petrus-kirsten)
-- [Personal Website](https://github.com/PetrusKirsten) _(cooming soon)_
-
----
-
-<details>
-  <summary>🇧🇷 Versão em Português (clique para expandir)</summary>
-
-# Olá, mundo! Petrus por aqui 👾
-
-<!-- Você também pode adicionar um banner ou imagem aqui -->
-
-### Desde pequeno, sou fascinado por ciência 🧪, tecnologia 💾 e… dinossauros 🦖.
----
-
-## 👨‍🔬 Sobre mim
-
-Atualmente sou **doutorando em Física Aplicada à Medicina e Biologia** 👩🏻‍🔬🩻 pela **Universidade de São Paulo (USP)** e estudante de **Bacharelado em Ciência de Dados** 📊📈 pela **Universidade Virtual do Estado de São Paulo (Univesp)**.
-
-Tenho desenvolvido habilidades e construído projetos nas áreas de:
-- 📊 **Análise de Dados e Ciência de Dados**
-- 🌐 **Desenvolvimento Web Full Stack**
-- 💻 **Desenvolvimento de Software e Aplicativos**
-- 🤖 **Microcontroladores e Eletrônica**
+### 🧠 [Hindmarsh-Rose Neuronal Simulation](https://github.com/PetrusKirsten/simulacao-neuronal-HR)
+Simulation of nonlinear neuronal dynamics using the Hindmarsh-Rose model.  
+- Mathematical modeling + scientific computing  
+- Bridges **physics and computational neuroscience**  
 
 ---
 
-## 💻 Tecnologias com que tenho trabalhado
-
-<!-- LINGUAGENS -->
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-<!-- FRONT-END -->
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-<!-- BACK-END / DB -->
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![APIs](https://img.shields.io/badge/APIs-000000?style=for-the-badge&logo=cloudflare&logoColor=white)
-
-<!-- FERRAMENTAS -->
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-<!-- HARDWARE -->
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+### 🦖 [PaleoDex API](https://github.com/PetrusKirsten/PaleoDex_API) *(in progress)*
+REST API for managing paleontological data.  
+- Built with **FastAPI**  
+- Planned evolution into a **data analysis & dashboard project**  
 
 ---
 
-## 🧪 Alguns projetos que venho desenvolvendo ou explorando
+## 🔬 Scientific & Research Projects
 
-Aqui vai uma amostra dos projetos em que tenho trabalhado — misturando necessidades pessoais, curiosidade criativa e pesquisa acadêmica:
-
-- 📊 **[Meu Doce Dinheiro](https://github.com/PetrusKirsten/meu-doce-dinheiro)**  
-  Um app de finanças pessoais para acompanhar receitas e despesas de forma simples e visual. Criado como forma de praticar desenvolvimento full stack e visualização de dados.
-
-- 🔬 **[Ferramentas para análise de espectroscopia Raman e microscopia](https://github.com/PetrusKirsten/RamanAnalysis)**  
-  Scripts e notebooks para análise de dados espectroscópicos e microscópicos em contextos de pesquisa.
-
-- ❇️ **[Simulação do modelo neuronal Hindmarsh-Rose](https://github.com/PetrusKirsten/simulacao-neuronal-HR)**  
-  Simulação do modelo não-linear Hindmarsh-Rose, usado para estudar o comportamento dinâmico e pulsátil de neurônios.
-
-- 📷 **[Sistema de rastreamento espacial via webcam](https://github.com/PetrusKirsten/webcam_for_nTMS)**  
-  Um sistema alternativo de rastreamento espacial por webcam para o software de neuronavegação [InVesalius Navigator](https://invesalius.github.io/), com o objetivo de auxiliar no mapeamento cerebral não-invasivo utilizando imagens médicas.
-
-- 🧠 **[Sistema automatizado de mapeamento motor](https://github.com/PetrusKirsten/inv3_plugins/tree/main/automated_mapping)**  
-  Integra braços robóticos (cobots), EMG feito com microcontrolador e o InVesalius Navigator para automatizar o mapeamento do córtex motor — unindo software, neurociência e hardware.
+- 📷 [Webcam-based spatial tracking for neuronavigation](https://github.com/PetrusKirsten/webcam_for_nTMS)
+- 🤖 [Automated motor mapping system](https://github.com/PetrusKirsten/inv3_plugins/tree/main/automated_mapping) (robotics + EMG + neurostimulation)  
+- 🔬 [Raman spectroscopy and microscopy data analysis](https://github.com/PetrusKirsten/RamanAnalysis)  
+- 📈 [Rheological data visualization tools](https://github.com/PetrusKirsten/Rheometer-Plotting)  
 
 ---
 
-## 📫 Vamos nos conectar?
+## 🧪 Currently exploring
 
-- [Email](mailto:petrus.kirsten@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/petrus-kirsten)
-- [Site pessoal](https://github.com/PetrusKirsten) _(em breve)_
+- [Machine Learning and predictive modeling](https://github.com/PetrusKirsten/Rheoinformatics-Biopolymers)  
+- Data visualization and dashboards  
+- Scientific data pipelines  
 
 ---
 
+## 📘 Coursework & Practice Repositories
+
+A collection of repositories created during courses, technical trainings, and hands-on practice in programming, backend development, and applied AI.
+
+- [dio-backend-python](https://github.com/PetrusKirsten/dio-backend-python)
+- [dio-formacao-cpp](https://github.com/PetrusKirsten/dio-formacao-cpp)
+- [azure-ai-sentiment-analysis](https://github.com/PetrusKirsten/azure-ai-sentiment-analysis)
+- [store-tdd-api](https://github.com/PetrusKirsten/store-tdd-api)
+
+---
+
+## 🛠️ Technologies
+
+**Languages**  
+Python • JavaScript • TypeScript • C++  
+
+**Data Science**  
+Pandas • NumPy • Matplotlib • Scikit-learn  
+
+**Web Development**  
+React • Node.js • FastAPI • Django  
+
+**Databases**  
+PostgreSQL • MongoDB • SQLite  
+
+**Tools & Others**  
+Git • Linux • Jupyter • Arduino  
+
+---
+
+## 📚 Education
+
+🎓 Ph.D. in [Applied Physics to Medicine and Biology](https://sites.usp.br/famb/pb/) — USP  
+🎓 B.Sc. in [Medical Physics](https://www.ffclrp.usp.br/graduacoes/cursos.php?g=2) — USP  
+🎓 B.Sc. in [Data Science](https://univesp.br/bacharelado-em-ciencia-de-dados/) — Univesp *(ongoing)*  
+
+---
+
+## 📫 Let's connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/petrus-kirsten/)  
+- 📧 Email: [petrus.kirsten@gmail.com](mailto:petrus.kirsten@gmail.com)  
+- 🌐 Personal website: *coming soon*  
+- 🛠️ Website repository: [petrus-portfolio](https://github.com/PetrusKirsten/petrus-portfolio)
