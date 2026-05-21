@@ -25,7 +25,7 @@ My work sits at the intersection of:
 
 ## ⭐ Featured Projects
 
-### 🎢 [ParkFlow Analytics](https://github.com/PetrusKirsten/parkflow-analytics) *(in progress)*
+### 🎢 [ParkFlow Analytics](https://github.com/PetrusKirsten/BCWflow) *(in progress)*
 A data science portfolio project that transforms a real theme park visit into an operational intelligence case study.  
 Using public/proxy data from queue-time sources, weather APIs and calendar features, the project explores how attraction wait times vary across time, operating hours and environmental conditions.
 
