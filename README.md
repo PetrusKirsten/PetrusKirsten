@@ -1,8 +1,8 @@
-# 👋 Hello, World! Petrus here 👾
+# Hello, World! Petrus here
 
-🧠 Physicist | 📊 Data Science Student | 💻 Software Developer  
+Physicist | Final-Year PhD Candidate | Data Science Student  
 
-I build **data-driven applications** and **scientific tools**, combining physics, programming, and real-world problem solving.
+I build **data-driven applications**, **scientific tools**, and **analytical dashboards**, combining physics, programming, and real-world problem solving.
 
 ---
 
@@ -18,12 +18,23 @@ My work sits at the intersection of:
 
 - 📊 **Data Analysis & Data Science**
 - 🌐 **Full Stack Development**
-- 💻 **Software Engineering**
 - 🤖 **Scientific Systems & Embedded Tech**
+- 💻 **Software Engineering**
 
 ---
 
 ## ⭐ Featured Projects
+
+### 🎢 [ParkFlow Analytics](https://github.com/PetrusKirsten/parkflow-analytics) *(in progress)*
+A data science portfolio project that transforms a real theme park visit into an operational intelligence case study.  
+Using public/proxy data from queue-time sources, weather APIs and calendar features, the project explores how attraction wait times vary across time, operating hours and environmental conditions.
+
+- Built with **Python**, **Pandas**, **Plotly** and **Streamlit**
+- Covers data acquisition, cleaning, exploratory analysis, dashboarding and documentation
+- Designed around transparent assumptions, imperfect data and clear business value
+- Planned evolution: predictive modeling for queue-time estimation and visitor experience insights
+
+---
 
 ### 📊 [FinDash](https://github.com/PetrusKirsten/FinDash)
 Personal finance dashboard focused on data visualization and insights.  
@@ -58,8 +69,9 @@ REST API for managing paleontological data.
 ## 🧪 Currently exploring
 
 - [Machine Learning and predictive modeling](https://github.com/PetrusKirsten/Rheoinformatics-Biopolymers)  
-- Data visualization and dashboards  
-- Scientific data pipelines  
+- Data visualization, dashboards and storytelling with data  
+- Scientific and operational data pipelines  
+- Responsible use of public/proxy data in real-world analytics projects  
 
 ---
 
@@ -80,10 +92,10 @@ A collection of repositories created during courses, technical trainings, and ha
 Python • JavaScript • TypeScript • C++  
 
 **Data Science**  
-Pandas • NumPy • Matplotlib • Scikit-learn  
+Pandas • NumPy • Matplotlib • Plotly • Scikit-learn  
 
 **Web Development**  
-React • Node.js • FastAPI • Django  
+React • Node.js • FastAPI • Django • Streamlit  
 
 **Databases**  
 PostgreSQL • MongoDB • SQLite  
